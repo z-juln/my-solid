@@ -1,0 +1,10 @@
+out
+dist
+node_modules
+.vscode/
+.vscode-test/
+*.vsix
+yarn-error.log
+pnpm-error.log
+.DS_Store
+package-lock.json

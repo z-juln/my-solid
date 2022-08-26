@@ -1,0 +1,21 @@
+{
+  "name": "my-solid",
+  "private": true,
+  "version": "1.0.0",
+  "description": "my-solid",
+  "scripts": {
+    "test": "pnpm test --filter @my-solid/**",
+    "test:babel": "pnpm test --filter @my-solid/babel-plugin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z-juln/my-solid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z-juln/my-solid/issues"
+  },
+  "homepage": "https://github.com/z-juln/my-solid#readme"
+}
