@@ -1,6 +1,6 @@
 {
   "name": "@my-solid/babel-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "my-solid-babel-plugin",
   "main": "src/index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "solid",
     "@my-solid/babel-plugin"
   ],
-  "author": "",
+  "author": "juln",
   "license": "ISC",
   "dependencies": {
     "@babel/core": "^7.18.13",
