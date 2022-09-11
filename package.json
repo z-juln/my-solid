@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/z-juln/my-solid/issues"
   },
-  "homepage": "https://github.com/z-juln/my-solid#readme"
+  "homepage": "https://github.com/z-juln/my-solid#readme",
+  "devDependencies": {
+    "ololog": "^1.1.175"
+  }
 }

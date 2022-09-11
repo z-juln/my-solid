@@ -1,6 +1,6 @@
 {
   "name": "@my-solid/babel-plugin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "my-solid-babel-plugin",
   "main": "src/index.js",
   "scripts": {
