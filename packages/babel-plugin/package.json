@@ -1,6 +1,6 @@
 {
   "name": "@my-solid/babel-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "my-solid-babel-plugin",
   "main": "src/index.js",
   "scripts": {
@@ -25,7 +25,6 @@
   },
   "devDependencies": {
     "@babel/helper-annotate-as-pure": "^7.18.6",
-    "@babel/helper-plugin-utils": "^7.18.9",
-    "ololog": "^1.1.175"
+    "@babel/helper-plugin-utils": "^7.18.9"
   }
 }

@@ -26,5 +26,8 @@ const { code: newCode } = babel.transform(code, {
   plugins: [
     require('./index.js'),
   ],
+  parserOpts: {
+    tokens: true,
+  },
 });
 log(newCode);
